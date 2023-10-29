@@ -9,9 +9,9 @@
    <center>
       <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" spacing="100.0" BorderPane.alignment="CENTER">
          <children>
-            <Button fx:id="botonRojo" mnemonicParsing="false" onAction="#cambiarFondo" text="Rojo" />
-            <Button fx:id="botonVerde" mnemonicParsing="false" onAction="#cambiarFondo" text="Verde" />
-            <Button fx:id="botonAzul" mnemonicParsing="false" onAction="#cambiarFondo" text="Azul" />
+            <Button fx:id="botonOrange" mnemonicParsing="false" onAction="#cambiarFondo" text="Naranja" />
+            <Button fx:id="botonPink" mnemonicParsing="false" onAction="#cambiarFondo" text="Rosado" />
+            <Button fx:id="botonBrown" mnemonicParsing="false" onAction="#cambiarFondo" text="Cafe" />
          </children>
          <opaqueInsets>
             <Insets />
